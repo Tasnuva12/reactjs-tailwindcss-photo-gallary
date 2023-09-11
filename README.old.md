@@ -1,1 +1,0 @@
-# reactjs-tailwindcss-photo-gallary
