@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactjs-tailwindcss-photo-gallary/static/css/main.b003a31e.css",
+    "main.js": "/reactjs-tailwindcss-photo-gallary/static/js/main.406ea9a6.js",
+    "index.html": "/reactjs-tailwindcss-photo-gallary/index.html",
+    "main.b003a31e.css.map": "/reactjs-tailwindcss-photo-gallary/static/css/main.b003a31e.css.map",
+    "main.406ea9a6.js.map": "/reactjs-tailwindcss-photo-gallary/static/js/main.406ea9a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b003a31e.css",
+    "static/js/main.406ea9a6.js"
+  ]
+}
