@@ -2,6 +2,7 @@
   "name": "reactjs-tailwindcss-photo-gallary",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Tasnuva12.github.io/reactjs-tailwindcss-photo-gallary",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -11,14 +12,13 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
- "scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject",
-  "watch:css": "postcss src/assets/tailwind.css -o src/assets/main.css"
-},
-
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "watch:css": "postcss src/assets/tailwind.css -o src/assets/main.css"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
